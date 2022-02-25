@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Görkem Sever</h1>
 <h3 align="center">A passionate Ecole 42 Kocaeli student in Turkey!</h3>
 
