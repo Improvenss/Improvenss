@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Görkem Sever</h1>
 <h3 align="center">A passionate Ecole 42 Kocaeli student in Turkey!</h3>
 
-[![gsever's 42 stats](https://badge42.herokuapp.com/api/stats/gsever?darkmode=true&privacyEmail=false&privacyName=false)](https://github.com/JaeSeoKim/badge42)
+[![gsever's 42 stats](https://badge42.herokuapp.com/api/stats/gsever?darkmode=true&privacyEmail=false&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 
 **ONLY USE THIS AS A REFERENCE, IF YOU COPY YOU RISK GETTING A -42!!**
