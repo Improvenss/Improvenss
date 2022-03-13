@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Görkem Sever</h1>
 <h3 align="center">A passionate Ecole 42 Kocaeli student in Turkey!</h3>
 
-[![gsever's 42 stats](https://badge42.herokuapp.com/api/stats/gsever?darkmode=true&privacyEmail=false&privacyName=false)](https://github.com/JaeSeoKim/badge42)
+[![gsever's 42 stats](https://badge42.herokuapp.com/api/stats/gsever?darkmode=true&privacyEmail=false&privacyName=false)](https://profile.intra.42.fr/users/gsever)
 
 
 **ONLY USE THIS AS A REFERENCE, IF YOU COPY YOU RISK GETTING A -42!!**
@@ -25,7 +25,7 @@
 |			Finished				| Description	| Projes |
 |:---------------:|:-----------:|:----:|
 [push_swap](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/push_swap) | Im not started yet! | [![gsever's push_swap Score](https://badge42.herokuapp.com/api/project/gsever/push_swap)](https://projects.intra.42.fr/42cursus-push_swap/gsever) |
-[minitalk](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/minitalk) | Im not started yet! | [![gsever's minitalk Score](https://badge42.herokuapp.com/api/project/gsever/minitalk)](https://projects.intra.42.fr/42cursus-minitalk/gsever) |
+[minitalk](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/minitalk) | Im not started yet! | [![gsever's minitalk Score](https://badge42.herokuapp.com/api/project/gsever/minitalk)](https://projects.intra.42.fr/projects/minitalk) |
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=improvenss&label=Profile%20views&color=0e75b6&style=flat" alt="improvenss" /> </p>
