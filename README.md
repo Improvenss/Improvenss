@@ -16,9 +16,9 @@
 ## Circle 1
 |			Finished				| Description	| Projes |
 |:---------------:|:-----------:|:----:|
-[get_next_line](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/get_next_line) | The aim of this project is to make you code a function<br>that returns a line and read from a file descriptor. | [![gsever's 42 get_next_line Score](https://badge42.herokuapp.com/api/project/gsever/get_next_line)](https://projects.intra.42.fr/42cursus-get_next_line/gsever) |
-[Born2beroot](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/born2beroot) | Quiz to test your network knowledge. | [![gsever's Born2beroot Score](https://badge42.herokuapp.com/api/project/gsever/Born2beroot)](https://projects.intra.42.fr/projects/born2beroot/gsever) |
-[ft_printf](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/ft_printf) | Because putnbr and putstr aren’t enough. | [![gsever's ft_printf Score](https://badge42.herokuapp.com/api/project/gsever/ft_printf)](https://projects.intra.42.fr/42cursus-ft_printf/gsever) |
+[get_next_line](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/get_next_line) | The aim of this project is to make you code a function<br>that returns a line and read from a file descriptor. | [![gsever's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2498701)](https://projects.intra.42.fr/42cursus-get_next_line/gsever) |
+[Born2beroot](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/born2beroot) | Quiz to test your network knowledge. | [![gsever's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2528574)](https://projects.intra.42.fr/projects/born2beroot/gsever) |
+[ft_printf](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/ft_printf) | Because putnbr and putstr aren’t enough. | [![gsever's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2513675)](https://projects.intra.42.fr/42cursus-ft_printf/gsever)|
 
 
 ## Circle 2
