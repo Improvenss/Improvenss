@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Ecole 42 Kocaeli student in Turkey!</h3>
 
 [![gsever's 42 stats](https://badge42.herokuapp.com/api/stats/gsever?darkmode=true&privacyEmail=false&privacyName=false)](https://profile.intra.42.fr/users/gsever)
+[![gsever's 42 stats](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/stats?cursusId=21&coalitionId=undefined)](https://profile.intra.42.fr/users/gsever)
 
 
 **ONLY USE THIS AS A REFERENCE, IF YOU COPY YOU RISK GETTING A -42!!**
