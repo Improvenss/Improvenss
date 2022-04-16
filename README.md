@@ -25,7 +25,7 @@
 |			Finished				| Description	| Projes |
 |:---------------:|:-----------:|:----:|
 [push_swap](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/push_swap) | Im started but it's so hard! | [![gsever's push_swap Score](https://badge42.herokuapp.com/api/project/gsever/push_swap)](https://projects.intra.42.fr/42cursus-push_swap/gsever) |
-[minitalk](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/minitalk) | Im started, in progress! | [![gsever's minitalk Score](https://badge42.herokuapp.com/api/project/gsever/minitalk)](https://projects.intra.42.fr/projects/minitalk/gsever) |
+[minitalk](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/minitalk) | Im started, in progress! | [![gsever's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2556398)](https://projects.intra.42.fr/projects/minitalk/gsever)|
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=improvenss&label=Profile%20views&color=0e75b6&style=flat" alt="improvenss" /> </p>
