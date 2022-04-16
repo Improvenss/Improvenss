@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Görkem Sever</h1>
 <h3 align="center">A passionate Ecole 42 Kocaeli student in Turkey!</h3>
 
-[![gsever's 42 stats](https://badge42.herokuapp.com/api/stats/gsever?darkmode=true&privacyEmail=false&privacyName=false)](https://profile.intra.42.fr/users/gsever)
 [![gsever's 42 stats](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/stats?cursusId=21&coalitionId=undefined)](https://profile.intra.42.fr/users/gsever)
 
 
@@ -12,7 +11,8 @@
 
 |			Finished				| Description	| Projes |
 |:---------------:|:-----------:|:----:|
-[Libft](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/libft) | This project aims to code a C library regrouping usual<br>functions that you’ll be using for all your next projects. | [![gsever's Libft Score](https://badge42.herokuapp.com/api/project/gsever/Libft)](https://projects.intra.42.fr/42cursus-libft/gsever) |
+[Libft](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/libft) | This project aims to code a C library regrouping usual<br>functions that you’ll be using for all your next projects. | [![gsever's Libft Score](https://badge42.herokuapp.com/api/project/gsever/Libft)](https://projects.intra.42.fr/42cursus-libft/gsever)
+[![gsever's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2473097)](https://projects.intra.42.fr/42cursus-libft/gsever)|
 
 ## Circle 1
 |			Finished				| Description	| Projes |
