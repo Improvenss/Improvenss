@@ -11,8 +11,7 @@
 
 |			Finished				| Description	| Projes |
 |:---------------:|:-----------:|:----:|
-[Libft](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/libft) | This project aims to code a C library regrouping usual<br>functions that you’ll be using for all your next projects. | 
-[![gsever's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2473097)](https://projects.intra.42.fr/42cursus-libft/gsever) |
+[Libft](https://github.com/Improvenss/main42gsever/tree/main/ready-for-pusht/libft) | This project aims to code a C library regrouping usual<br>functions that you’ll be using for all your next projects. | [![gsever's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2473097)](https://projects.intra.42.fr/42cursus-libft/gsever) |
 
 ## Circle 1
 |			Finished				| Description	| Projes |
