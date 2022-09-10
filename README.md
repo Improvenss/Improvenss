@@ -29,6 +29,7 @@
 [fract-ol](https://github.com/Improvenss/fract-ol) | fract-ol poject visualized fractals with minilibx 42's visualize library.:) | [![gsever's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2568174)](https://projects.intra.42.fr/42cursus-fract-ol/gsever)|
 [minitalk](https://github.com/Improvenss/minitalk) | Bitwise and UINX singal's usage learning!| [![gsever's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2556398)](https://projects.intra.42.fr/projects/minitalk/gsever) |
 
+54 68 65 20 71 75 69 63 6b 20 62 72 6f 77 6e 20 f0 9f a6 8a 20 6a 75 6d 70 73 20 6f 76 65 72 20 31 33 20 6c 61 7a 79 20 f0 9f 90 b6 2e
 
 <p align="center"><img src="https://github.com/Improvenss/Improvenss/blob/main/snakebro.svg"></p>
 
