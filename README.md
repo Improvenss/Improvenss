@@ -31,7 +31,7 @@
 
 54 68 65 20 71 75 69 63 6b 20 62 72 6f 77 6e 20 f0 9f a6 8a 20 6a 75 6d 70 73 20 6f 76 65 72 20 31 33 20 6c 61 7a 79 20 f0 9f 90 b6 2e
 
-<p align="center"><img src="https://github.com/Improvenss/Improvenss/blob/main/snakebro.svg"></p>
+<!-- <p align="center"><img src="https://github.com/Improvenss/Improvenss/blob/main/snakebro.svg"></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=improvenss&label=Profile%20views&color=0e75b6&style=flat" alt="improvenss" /> </p>
 
