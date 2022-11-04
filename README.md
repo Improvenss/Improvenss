@@ -35,7 +35,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=improvenss&label=Profile%20views&color=0e75b6&style=flat" alt="improvenss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=improvenss" alt="improvenss" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=improvenss&theme=onedark" alt="improvenss" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
