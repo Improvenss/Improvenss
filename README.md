@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Ecole 42 Kocaeli student in Turkey!</h3>
 
 
-[![gsever's 42 stats](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/stats?cursusId=21&coalitionId=undefined)](https://profile.intra.42.fr/users/gsever)
+[![gsever's 42 stats](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/stats?cursusId=21&coalitionId=231)](https://profile.intra.42.fr/users/gsever)
 
 
 **ONLY USE THIS AS A REFERENCE, IF YOU COPY YOU RISK GETTING A -42!!**
@@ -29,6 +29,24 @@
 [fract-ol](https://github.com/Improvenss/fract-ol) | fract-ol poject visualized fractals with minilibx 42's visualize library.:) | [![gsever's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2568174)](https://projects.intra.42.fr/42cursus-fract-ol/gsever)|
 [minitalk](https://github.com/Improvenss/minitalk) | Bitwise and UINX singal's usage learning!| [![gsever's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2556398)](https://projects.intra.42.fr/projects/minitalk/gsever) |
 
+
+## Circle 3
+|			Finished				| Description	| Projes |
+|:---------------:|:-----------:|:----:|
+[minishell](https://github.com/Improvenss/minishell) | Minishell project we are learning how it's working bash. | [![gsever's minishell Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2743670)](https://projects.intra.42.fr/42cursus-minishell/gsever) |
+[philosophers](https://github.com/Improvenss/philosophers) | Philosophers project we are learning processes with threads working with no data-races/race-conditions. | [![gsever's Philosophers Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2743663)](https://projects.intra.42.fr/42cursus-philosophers/gsever) |
+
+
+
+## Circle 4
+|			Finished				| Description	| Projes |
+|:---------------:|:-----------:|:----:|
+[cub3D](https://github.com/Improvenss/cub3D) | cub3D project we are making Wolfstein 3D game with using Ray Casting. | [![gsever's cub3D Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2870518)](https://projects.intra.42.fr/cub3d/gsever) |
+[NetPractice](https://github.com/Improvenss/net_practice) | NetPractice project teaching how it's working IP subnetwork. | [![gsever's NetPractice Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2919246)](https://projects.intra.42.fr/netpractice/gsever) |
+[CPP Modules](https://github.com/Improvenss/cpp_modules) | CPP Modules teaching all learned C language's CPP versione like piscine cursus. | [![gsever's CPP 00-08 Score](https://badge42.vercel.app/api/v2/cl1m41hqg003409l9rs91d7fl/project/2923393)](https://projects.intra.42.fr/cpp-module-00/gsever) |
+
+
+
 54 68 65 20 71 75 69 63 6b 20 62 72 6f 77 6e 20 f0 9f a6 8a 20 6a 75 6d 70 73 20 6f 76 65 72 20 31 33 20 6c 61 7a 79 20 f0 9f 90 b6 2e
 
 <!-- <p align="center"><img src="https://github.com/Improvenss/Improvenss/blob/main/snakebro.svg"></p> -->
@@ -51,4 +69,3 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=improvenss&show_icons=true&locale=en" alt="improvenss" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=improvenss&" alt="improvenss" /></p> -->
-
